@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377df4ec-dc20-42dc-9a45-227671492771" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTgGFsxygfq7IfC8xBRNGfKBF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Weka-3-8-4/mtj-1.0.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RunManager" selected="Application.PreProcess">
+    <configuration name="DataCleaning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try.DataCleaning" />
+      <module name="Weka_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try.PreProcess" />
+      <module name="Weka_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessRes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try.ProcessRes" />
+      <module name="Weka_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try.Try_2" />
+      <module name="Weka_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try.Try_3" />
+      <module name="Weka_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PreProcess" />
+        <item itemvalue="Application.ProcessRes" />
+        <item itemvalue="Application.Try_3" />
+        <item itemvalue="Application.Try_2" />
+        <item itemvalue="Application.DataCleaning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377df4ec-dc20-42dc-9a45-227671492771" name="Default Changelist" comment="" />
+      <created>1594350898480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594350898480</updated>
+      <workItem from="1594350902337" duration="7894000" />
+      <workItem from="1594456809442" duration="5033000" />
+      <workItem from="1594538697432" duration="2805000" />
+      <workItem from="1594626334355" duration="2325000" />
+      <workItem from="1594696487896" duration="2801000" />
+      <workItem from="1594780051894" duration="7398000" />
+      <workItem from="1594866233942" duration="6057000" />
+      <workItem from="1594886692595" duration="1994000" />
+      <workItem from="1594952538904" duration="4125000" />
+      <workItem from="1594966363570" duration="1383000" />
+      <workItem from="1594971039773" duration="3321000" />
+      <workItem from="1594976069528" duration="957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1594366321005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594366321005" />
+    <state x="523" y="127" key="DetectedRootsChooserDialog" timestamp="1594809965827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="127" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1594809965827" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1594872595303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594872595303" />
+    <state x="543" y="153" key="FileChooserDialogImpl" timestamp="1594810054321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594810054321" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.1.center" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.1.left" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state width="1493" height="203" key="GridCell.Tab.1.right" timestamp="1594977032392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594977032392" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594810056171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594810056171" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594976072437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594976072437" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594972474724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594972474724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Try/PreProcess.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Try/PreProcess.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Try/PreProcess.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
